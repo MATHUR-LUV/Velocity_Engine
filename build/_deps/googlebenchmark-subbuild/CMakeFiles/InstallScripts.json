@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/projects/Velocity_Engine/build/_deps/googlebenchmark-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
