@@ -24,8 +24,8 @@ void OrderBook::addOrder(int id, OrderType type, double price, int quantity) {
             // Calculate trade size
             int tradeQty = std::min(quantity, sellOrder.quantity);
 
-            // std::cout << "[TRADE] Buy Order " << id << " matched " << tradeQty 
-            //           << " shares @ $" << bestAsk.price << std::endl;
+            std::cout << "[TRADE] Buy Order " << id << " matched " << tradeQty 
+                      << " shares @ $" << bestAsk.price << std::endl;
 
             // Update quantities
             quantity -= tradeQty;
@@ -62,7 +62,7 @@ void OrderBook::addOrder(int id, OrderType type, double price, int quantity) {
                 auto newLevelIter = bids.insert(it, OrderLevel(price));
                 newLevelIter->orders.emplace_back(id, type, price, quantity);
             }
-            // std::cout << "[ORDER] Buy Order " << id << " added to book @ " << price << std::endl;
+            std::cout << "[ORDER] Buy Order " << id << " added to book @ " << price << std::endl;
         }
 
     } else {
@@ -82,8 +82,8 @@ void OrderBook::addOrder(int id, OrderType type, double price, int quantity) {
             Order& buyOrder = bestBid.orders.front();
             int tradeQty = std::min(quantity, buyOrder.quantity);
 
-            // std::cout << "[TRADE] Sell Order " << id << " matched " << tradeQty 
-            //           << " shares @ $" << bestBid.price << std::endl;
+            std::cout << "[TRADE] Sell Order " << id << " matched " << tradeQty 
+                      << " shares @ $" << bestBid.price << std::endl;
 
             quantity -= tradeQty;
             buyOrder.quantity -= tradeQty;
@@ -111,7 +111,7 @@ void OrderBook::addOrder(int id, OrderType type, double price, int quantity) {
                 auto newLevelIter = asks.insert(it, OrderLevel(price));
                 newLevelIter->orders.emplace_back(id, type, price, quantity);
             }
-            // std::cout << "[ORDER] Sell Order " << id << " added to book @ " << price << std::endl;
+            std::cout << "[ORDER] Sell Order " << id << " added to book @ " << price << std::endl;
         }
     }
 }

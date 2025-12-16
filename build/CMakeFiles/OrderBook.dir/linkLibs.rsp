@@ -1,1 +1,1 @@
- "_deps/googlebenchmark-build/src/libbenchmark.a" -lshlwapi -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+ "_deps/googlebenchmark-build/src/libbenchmark.a" -lws2_32 -lshlwapi -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

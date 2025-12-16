@@ -1,0 +1,134 @@
+[
+{
+  "directory": "C:/projects/Velocity_Engine/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE @CMakeFiles/OrderBook.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OrderBook.dir\\main.cpp.obj -c C:\\projects\\Velocity_Engine\\main.cpp",
+  "file": "C:/projects/Velocity_Engine/main.cpp",
+  "output": "CMakeFiles/OrderBook.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE @CMakeFiles/OrderBook.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OrderBook.dir\\OrderBook.cpp.obj -c C:\\projects\\Velocity_Engine\\OrderBook.cpp",
+  "file": "C:/projects/Velocity_Engine/OrderBook.cpp",
+  "output": "CMakeFiles/OrderBook.dir/OrderBook.cpp.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\benchmark.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\benchmark.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/benchmark.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\benchmark_api_internal.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\benchmark_api_internal.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/benchmark_api_internal.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_api_internal.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\benchmark_name.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\benchmark_name.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/benchmark_name.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_name.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\benchmark_register.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\benchmark_register.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/benchmark_register.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_register.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\benchmark_runner.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\benchmark_runner.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/benchmark_runner.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_runner.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\check.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\check.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/check.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/check.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\colorprint.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\colorprint.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/colorprint.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/colorprint.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\commandlineflags.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\commandlineflags.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/commandlineflags.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/commandlineflags.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\complexity.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\complexity.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/complexity.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/complexity.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\console_reporter.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\console_reporter.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/console_reporter.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/console_reporter.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\counter.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\counter.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/counter.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/counter.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\csv_reporter.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\csv_reporter.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/csv_reporter.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/csv_reporter.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\json_reporter.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\json_reporter.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/json_reporter.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/json_reporter.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\perf_counters.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\perf_counters.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/perf_counters.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/perf_counters.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\reporter.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\reporter.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/reporter.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/reporter.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\statistics.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\statistics.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/statistics.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/statistics.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\string_util.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\string_util.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/string_util.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/string_util.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\sysinfo.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\sysinfo.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/sysinfo.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/sysinfo.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark.dir\\timers.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\timers.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/timers.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/timers.cc.obj"
+},
+{
+  "directory": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK @CMakeFiles/benchmark_main.dir/includes_CXX.rsp   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing -g -std=c++11 -fvisibility=hidden -fno-keep-inline-dllexport -o CMakeFiles\\benchmark_main.dir\\benchmark_main.cc.obj -c C:\\projects\\Velocity_Engine\\build\\_deps\\googlebenchmark-src\\src\\benchmark_main.cc",
+  "file": "C:/projects/Velocity_Engine/build/_deps/googlebenchmark-src/src/benchmark_main.cc",
+  "output": "_deps/googlebenchmark-build/src/CMakeFiles/benchmark_main.dir/benchmark_main.cc.obj"
+}
+]
