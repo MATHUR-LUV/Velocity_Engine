@@ -123,7 +123,7 @@ cmake --build .
 ### Simulate Traffic (separate terminal)
 
 ```bash
-python3 scripts/send_orders.py
+python3 send_orders.py
 ```
 
 ---
